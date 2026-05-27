@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.plastmasters.com/sitemap.xml
+Sitemap: https://kingxzen.github.io/plastmasters-manufacturing-website/sitemap.xml
