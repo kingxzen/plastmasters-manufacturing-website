@@ -1,0 +1,6 @@
+# Plastmasters Manufacturing Inc. - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.plastmasters.com/sitemap.xml
